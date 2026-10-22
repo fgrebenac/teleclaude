@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540" role="img" aria-label="Telegram groups and topics mapped to project folders and Claude Code sessions">
+<text x="24" y="30" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing=".08em" fill="#59636e">TELEGRAM</text>
+<text x="540" y="30" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing=".08em" fill="#59636e">YOUR MACHINE</text>
+<rect x="24" y="64" width="320" height="224" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="42" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#1f2328">Personal</text>
+<text x="326" y="94" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">private group, just you</text>
+<text x="42" y="141.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e"><tspan font-weight="600">General</tspan><tspan font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" dx="10">/new  /list  /ls  /status</tspan></text>
+<line x1="38" y1="156.0" x2="330" y2="156.0" stroke="#d1d9e0"/>
+<text x="42" y="181.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328"><tspan fill="#0969da" font-weight="700">#</tspan> blog</text>
+<circle cx="344" cy="176.0" r="3.5" fill="#0969da"/>
+<path d="M348 176.0 C 434 176.0, 450 176.0, 536 176.0" fill="none" stroke="#8c959f" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="540" y="161.0" width="336" height="30" rx="15" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="556" y="180.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#1f2328">~/personal/blog</text>
+<circle cx="772" cy="176.0" r="4.5" fill="#1a7f37"/>
+<text x="860" y="180.5" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#1a7f37">Claude Code</text>
+<line x1="38" y1="196.0" x2="330" y2="196.0" stroke="#d1d9e0"/>
+<text x="42" y="221.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328"><tspan fill="#0969da" font-weight="700">#</tspan> recipes</text>
+<circle cx="344" cy="216.0" r="3.5" fill="#0969da"/>
+<path d="M348 216.0 C 434 216.0, 450 216.0, 536 216.0" fill="none" stroke="#8c959f" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="540" y="201.0" width="336" height="30" rx="15" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="556" y="220.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#1f2328">~/personal/recipes</text>
+<circle cx="826" cy="216.0" r="4.5" fill="#59636e"/>
+<text x="860" y="220.5" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">idle</text>
+<line x1="38" y1="236.0" x2="330" y2="236.0" stroke="#d1d9e0"/>
+<text x="42" y="261.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328"><tspan fill="#0969da" font-weight="700">#</tspan> home-server</text>
+<circle cx="344" cy="256.0" r="3.5" fill="#0969da"/>
+<path d="M348 256.0 C 434 256.0, 450 256.0, 536 256.0" fill="none" stroke="#8c959f" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="540" y="241.0" width="336" height="30" rx="15" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="556" y="260.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#1f2328">~/personal/home-server</text>
+<circle cx="772" cy="256.0" r="4.5" fill="#1a7f37"/>
+<text x="860" y="260.5" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#1a7f37">Claude Code</text>
+<rect x="24" y="310" width="320" height="184" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="42" y="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#1f2328">Work</text>
+<text x="326" y="340" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">shared with your team</text>
+<text x="42" y="387.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e"><tspan font-weight="600">General</tspan><tspan font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" dx="10">/new  /list  /ls  /status</tspan></text>
+<line x1="38" y1="402.0" x2="330" y2="402.0" stroke="#d1d9e0"/>
+<text x="42" y="427.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328"><tspan fill="#0969da" font-weight="700">#</tspan> api</text>
+<circle cx="344" cy="422.0" r="3.5" fill="#0969da"/>
+<path d="M348 422.0 C 434 422.0, 450 422.0, 536 422.0" fill="none" stroke="#8c959f" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="540" y="407.0" width="336" height="30" rx="15" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="556" y="426.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#1f2328">~/work/api</text>
+<circle cx="772" cy="422.0" r="4.5" fill="#1a7f37"/>
+<text x="860" y="426.5" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#1a7f37">Claude Code</text>
+<line x1="38" y1="442.0" x2="330" y2="442.0" stroke="#d1d9e0"/>
+<text x="42" y="467.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328"><tspan fill="#0969da" font-weight="700">#</tspan> web-app</text>
+<circle cx="344" cy="462.0" r="3.5" fill="#0969da"/>
+<path d="M348 462.0 C 434 462.0, 450 462.0, 536 462.0" fill="none" stroke="#8c959f" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="540" y="447.0" width="336" height="30" rx="15" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="556" y="466.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#1f2328">~/work/web-app</text>
+<circle cx="826" cy="462.0" r="4.5" fill="#59636e"/>
+<text x="860" y="466.5" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#59636e">idle</text>
+<text x="450.0" y="524" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#59636e">One topic = one project folder = one persistent Claude Code session. Groups keep contexts apart.</text>
+</svg>

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.claude/settings.local.json
+.DS_Store
+# Private notes, plans and scratch files — never published
+.private/
+CLAUDE.local.md
+# Reddit/launch videos rendered by `npm run media` (README uses the GIFs)
+.github/media/*.mp4

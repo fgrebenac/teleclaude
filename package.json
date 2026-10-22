@@ -1,0 +1,79 @@
+{
+  "name": "teleclaude",
+  "version": "1.9.0",
+  "description": "Telegram bot bridging Claude Code to Telegram forum topics",
+  "main": "dist/index.js",
+  "bin": {
+    "teleclaude": "./dist/index.js"
+  },
+  "type": "module",
+  "files": [
+    "dist/index.js",
+    "dist/channel-server.js",
+    "README.md",
+    "ONBOARDING.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "bash scripts/build.sh",
+    "prepack": "bash scripts/build.sh",
+    "typecheck": "tsc --noEmit",
+    "dev": "tsx src/index.ts start",
+    "dev:watch": "tsx watch src/index.ts start",
+    "postinstall": "chmod +x node_modules/node-pty/prebuilds/darwin-*/spawn-helper 2>/dev/null || true",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "setup": "tsx src/index.ts setup",
+    "install:service": "tsx src/index.ts install",
+    "restart": "tsx src/index.ts restart",
+    "update": "tsx src/index.ts update",
+    "version:show": "tsx src/index.ts version",
+    "preversion": "vitest run",
+    "postversion": "git push --follow-tags",
+    "media": "tsx scripts/media/render.ts"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "telegram",
+    "telegram-bot",
+    "mcp",
+    "ai",
+    "agent"
+  ],
+  "author": "Filip Grebenac",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgrebenac/teleclaude.git"
+  },
+  "homepage": "https://github.com/fgrebenac/teleclaude#readme",
+  "bugs": {
+    "url": "https://github.com/fgrebenac/teleclaude/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "diff2html": "^3.4.56",
+    "grammy": "^1.41.1",
+    "marked": "^18.0.10",
+    "node-pty": "^1.1.0",
+    "puppeteer": "^25.3.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "esbuild": "^0.28.1",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3",
+    "vitest": "^4.0.18"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "allowScripts": {
+    "node-pty": true,
+    "puppeteer": true,
+    "esbuild": true,
+    "fsevents": false
+  }
+}
